@@ -1,4 +1,4 @@
-/* It is example of hello world*/
+/* It is example of hello world in C#*/
 using System;
 namespace HelloWorldApplication
 {
